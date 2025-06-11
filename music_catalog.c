@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------
  * Programmer: AJ Clay
  * Date: 
- * Name: hw3.c
+ * Name: music_catalog.c
  * Description: This program implements	a simple music catalog. The program will first read a list of artist/song pairs from a text file and store them in a
                 dynamically allocated array of character strings. The first line of the file specifies the number of artist song/pairs in the file. Each subsequent
                 line of the file contains on artist song/pair. When the program is run, it will check to see if there are songs by a specific artist(and will tell
